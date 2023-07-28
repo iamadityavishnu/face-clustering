@@ -1,0 +1,7 @@
+dlib==19.24.99
+face-recognition==1.3.0
+imutils==0.5.4
+matplotlib==3.7.2
+numpy==1.25.1
+opencv-python==4.8.0.74
+scikit-learn==1.3.0
