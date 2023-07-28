@@ -69,6 +69,7 @@ _In the notebook file_
 ## Example Output
 
 Here's an example of what the outputs might look like:
+
 ![alt text](examples/output1.png)
 ![alt text](examples/output2.png)
 
