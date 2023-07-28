@@ -77,4 +77,11 @@ Here's an example of what the outputs might look like:
 
 If you want to contribute to this project, feel free to fork the repository and submit pull requests.
 
+## References
+
+-   https://pyimagesearch.com/2018/07/09/face-clustering-with-python/
+-   https://machinelearningmastery.com/principal-component-analysis-for-visualization/
+-   https://www.jcchouinard.com/pca-with-python/
+-   https://www.analyticsvidhya.com/blog/2019/09/feature-engineering-images-introduction-hog-feature-descriptor/
+
 🫰
